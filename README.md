@@ -153,9 +153,24 @@ Este repositório está aberto para contribuições! Se você tem sugestões, me
 
 Se você tiver dúvidas ou quiser trocar ideias sobre o projeto, entre em contato:
 
-- **Email**: luanwp@hotmail.com
-- **LinkedIn**: [Luan Mercaldi](https://www.linkedin.com/in/seu-perfil/)
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/user-attachments/assets/445d5b33-1db7-4cb4-a54b-a11a691de257"
+    />
+    <p>&nbsp&nbsp&nbspLuan Mercaldi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://www.dio.me/users/luanwp">
+    DIO</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/luan-mercaldi-88080890/">LinkedIn</a>
+</p>
+<br/><br/>
+<p>
 
 ---
 
-**Feliz aprendizado!** 🌟
+⌨️ com 💜 por [Luan Mercaldi](https://github.com/LuanMercaldi)
